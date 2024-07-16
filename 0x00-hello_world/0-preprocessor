@@ -1,2 +1,2 @@
 #!/bin/bash
-CFILE="0-preprocessor.c" cpp -o output.c "$CFILE"
+CFILE="main.c" cpp -o output.c "$CFILE"
