@@ -1,0 +1,1 @@
+CFILE="0-preprocessor.c" cpp -o output.c "$CFILE"
