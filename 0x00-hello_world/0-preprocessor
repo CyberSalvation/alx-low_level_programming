@@ -1,2 +1,2 @@
 #!/bin/bash
-CFILE="main.c" OUTPUT_FILE="c" cpp -o "$OUTPUT_FILE" "$CFILE" && echo "Preprocessed file saved to $OUTPUT_FILE."
+cpp -o c "$CFILE"
