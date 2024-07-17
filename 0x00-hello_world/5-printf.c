@@ -9,8 +9,8 @@
 
 int main(void)
 {
-	printf("%s%s%s%s%s",
+	printf("%s%s",
 			"with proper grammar, but the outcome is a piece of art,",
-			"\n", "", "", "\n");
+			"\n");
 	return (0);
 }
