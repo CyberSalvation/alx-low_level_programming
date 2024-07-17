@@ -1,10 +1,10 @@
 #include <unistd.h>
 /**
- * this code doese the following
+ * main - Entry point of the program
  *
- * Dersctipiton: main description
+ * Description: Prints a message to stderr
  *
- * Return: retuns 1 (Success)
+ * Return: Always retuns 1 (Success)
  *
  */
 int main(void)
