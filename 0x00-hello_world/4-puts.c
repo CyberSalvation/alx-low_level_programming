@@ -10,6 +10,7 @@
 int main(void) /* Prints a quote and returns 0 */
 {
 	puts("\"Programming is like building a multilingual puzzle"); /* pr */
+	
+	/* Indicates successful execution */
 	return (0); /* returns 0 */
-	/* Succesfull execution */
 }
